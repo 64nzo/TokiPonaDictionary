@@ -16,3 +16,6 @@
 - [Webpack](https://webpack.js.org/) by the JS Foundation and all its contributors under the [MIT License](https://github.com/webpack/webpack/blob/master/LICENSE).
 - [ESLint](https://eslint.org/) by the JS Foundation and all its contributors under the [MIT License](https://github.com/eslint/eslint/blob/master/LICENSE).
 - [fontTools](https://github.com/fonttools/fonttools) by Just van Rossum under the [MIT License](https://github.com/fonttools/fonttools/blob/master/LICENSE).
+
+# Authors
+- Original author is Jprog ([website](https://jprogr.github.io/)). Original repo can be found [here](https://github.com/jProgr/TokiPonaDictionary)

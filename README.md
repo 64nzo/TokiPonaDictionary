@@ -1,3 +1,13 @@
+Yes hello. This is a clone of jProgr's toki pona dictionary. the original release is down on the internet, and i used regularly the website.  
+though sometimes i don't agree with all its translation, it is quite a helpful implementation.
+I plan on rehosting the website with minor tweaks that aligns with my use of toki pona.
+
+below is the original README.md file because i'm lazy and it's helpful (i dont know anything about npm lol)
+
+mi tawa ! o/
+
+---
+
 # Toki Pona dictionary
 
 A simple Toki Pona - English dictionary with search function.
